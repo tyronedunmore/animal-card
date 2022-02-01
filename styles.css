@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+.container{
+    border: 1px solid lightgray;
+    width: 311px;
+    padding: 0.25em;
+    flex-wrap: wrap;
+    box-shadow: 3px 5px 6px #ccc;  
+}
+
+h3 {
+    border: 1px solid transparent;
+    
+}
+
+img {
+    border: 1px solid transparent;
+    margin: .25em;
+}
+
+.description {
+    border: 1px solid lightgray;
+    width: 283px;
+    margin: .25em;
+    padding: 0.5em;
+    flex-wrap: wrap;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li span {
+    font-weight: bold;
+
+}
+
